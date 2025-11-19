@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "slug": "home",
+    "title": "Ruk Al Zuhor Kitchen Equipments",
+    "metaTitle": "Commercial Kitchen Equipment & Spare Parts | Ruk Al Zuhor - Sharjah, UAE",
+    "metaDescription": "Leading supplier of commercial kitchen equipment and genuine spare parts in Sharjah, UAE. Serving restaurants, bakeries, and supermarkets since 2019 with quality products and technical support.",
+    "content": {
+      "hero": {
+        "title": "Quality Kitchen Equipment for Your Business",
+        "subtitle": "Professional equipment and genuine spare parts for restaurants, bakeries, and supermarkets",
+        "cta": {
+          "primary": {
+            "text": "Browse Equipment",
+            "link": "/products"
+          },
+          "secondary": {
+            "text": "Get Quote",
+            "link": "/quote"
+          }
+        },
+        "slides": [
+          {
+            "image": "/images/hero/slide-1.jpg",
+            "title": "Premium Commercial Kitchen Equipment",
+            "description": "High-quality equipment for professional kitchens"
+          },
+          {
+            "image": "/images/hero/slide-2.jpg",
+            "title": "Genuine Spare Parts Available",
+            "description": "Original parts with technical support"
+          },
+          {
+            "image": "/images/hero/slide-3.jpg",
+            "title": "Expert Technical Support",
+            "description": "Professional assistance for all your needs"
+          }
+        ]
+      },
+      "features": [
+        {
+          "icon": "Award",
+          "title": "Premium Quality",
+          "description": "We provide only the highest quality equipment and genuine spare parts from trusted manufacturers"
+        },
+        {
+          "icon": "ThumbsUp",
+          "title": "Customer Satisfaction",
+          "description": "Your satisfaction is our priority with dedicated support and service excellence"
+        },
+        {
+          "icon": "DollarSign",
+          "title": "Best Prices",
+          "description": "Competitive pricing with guaranteed lowest rates in the market"
+        },
+        {
+          "icon": "Wrench",
+          "title": "Technical Support",
+          "description": "Expert technical assistance and after-sales support for all equipment"
+        }
+      ],
+      "about": {
+        "title": "About Ruk Al Zuhor Kitchen Equipments",
+        "description": "Established in 2019, Ruk Al Zuhor Kitchen Equipments has become a trusted name in commercial kitchen solutions across the UAE. We specialize in providing high-quality kitchen equipment and genuine spare parts to restaurants, bakeries, supermarkets, and catering businesses.",
+        "highlights": [
+          "Serving UAE since 2019",
+          "Wide range of commercial equipment",
+          "Genuine spare parts for all brands",
+          "Expert technical support team",
+          "Competitive pricing",
+          "Fast delivery across UAE"
+        ]
+      },
+      "services": [
+        {
+          "title": "Commercial Kitchen Equipment",
+          "description": "Complete range of cooking equipment, food preparation tools, and kitchen machinery",
+          "icon": "ChefHat"
+        },
+        {
+          "title": "Genuine Spare Parts",
+          "description": "Original spare parts for thermostats, burners, heating elements, and more",
+          "icon": "Settings"
+        },
+        {
+          "title": "Technical Support",
+          "description": "Professional installation guidance and maintenance support",
+          "icon": "Headphones"
+        },
+        {
+          "title": "Fast Delivery",
+          "description": "Quick delivery across Sharjah, Dubai, and all UAE emirates",
+          "icon": "Truck"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "slug": "about",
+    "title": "About Us",
+    "metaTitle": "About Ruk Al Zuhor Kitchen Equipments | Leading Supplier in UAE",
+    "metaDescription": "Learn about Ruk Al Zuhor Kitchen Equipments - your trusted partner for commercial kitchen solutions in UAE since 2019.",
+    "content": {
+      "intro": "Ruk Al Zuhor Kitchen Equipments is a leading supplier of commercial kitchen equipment and spare parts in the UAE, serving businesses across Sharjah, Dubai, and beyond.",
+      "story": "Since our establishment in 2019, we have built a reputation for reliability, quality, and exceptional customer service. Our mission is to provide businesses with the tools they need to succeed, from high-quality cooking equipment to genuine spare parts.",
+      "mission": "To be the most trusted partner for commercial kitchen solutions by delivering quality products, expert support, and competitive pricing.",
+      "values": [
+        {
+          "title": "Quality First",
+          "description": "We never compromise on quality"
+        },
+        {
+          "title": "Customer Focus",
+          "description": "Your success is our success"
+        },
+        {
+          "title": "Integrity",
+          "description": "Honest and transparent business practices"
+        },
+        {
+          "title": "Innovation",
+          "description": "Staying ahead with modern solutions"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "slug": "contact",
+    "title": "Contact Us",
+    "metaTitle": "Contact Ruk Al Zuhor Kitchen Equipments | Sharjah, UAE",
+    "metaDescription": "Get in touch with Ruk Al Zuhor Kitchen Equipments. Visit our showroom in Sharjah or call us for commercial kitchen equipment and spare parts.",
+    "content": {
+      "office": {
+        "name": "Ruk Al Zuhor Kitchen Equipments",
+        "address": "Jamal Abdul Naser Street, Sharjah, UAE",
+        "phones": [
+          "+971-525977805",
+          "+971-504593252"
+        ],
+        "email": "info@ruknalzuhorkitchen.com",
+        "hours": {
+          "weekdays": "9:00 AM - 8:00 PM",
+          "friday": "2:00 PM - 8:00 PM",
+          "saturday": "9:00 AM - 8:00 PM"
+        }
+      },
+      "map": {
+        "latitude": 25.3463,
+        "longitude": 55.4209,
+        "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.!2d55.4209!3d25.3463"
+      },
+      "social": {
+        "instagram": "https://www.instagram.com/al_fajir_kitchen_equipment/",
+        "whatsapp": "+971525977805"
+      }
+    }
+  }
+]
