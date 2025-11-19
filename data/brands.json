@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Professional Series",
+    "slug": "professional-series",
+    "logo": "/images/brands/professional-series.png",
+    "description": "Premium commercial kitchen equipment manufacturer",
+    "website": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Industrial Pro",
+    "slug": "industrial-pro",
+    "logo": "/images/brands/industrial-pro.png",
+    "description": "Heavy-duty industrial cooking equipment",
+    "website": "",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Pizza Master",
+    "slug": "pizza-master",
+    "logo": "/images/brands/pizza-master.png",
+    "description": "Specialized pizza oven manufacturer",
+    "website": "",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Chef Pro",
+    "slug": "chef-pro",
+    "logo": "/images/brands/chef-pro.png",
+    "description": "Professional food preparation equipment",
+    "website": "",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "SliceMaster",
+    "slug": "slicemaster",
+    "logo": "/images/brands/slicemaster.png",
+    "description": "Commercial slicing equipment specialist",
+    "website": "",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "FreshJuice Pro",
+    "slug": "freshjuice-pro",
+    "logo": "/images/brands/freshjuice-pro.png",
+    "description": "Commercial juicing equipment",
+    "website": "",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "SnackPro",
+    "slug": "snackpro",
+    "logo": "/images/brands/snackpro.png",
+    "description": "Snack preparation machinery",
+    "website": "",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "SteelPro",
+    "slug": "steelpro",
+    "logo": "/images/brands/steelpro.png",
+    "description": "Stainless steel kitchen equipment",
+    "website": "",
+    "featured": true
+  }
+]
