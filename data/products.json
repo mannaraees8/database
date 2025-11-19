@@ -1,0 +1,387 @@
+[
+  {
+    "id": 1,
+    "name": "Commercial Gas Range 6 Burner",
+    "slug": "commercial-gas-range-6-burner",
+    "categoryId": 1,
+    "sku": "CGR-6B-001",
+    "shortDescription": "Professional 6-burner gas range with heavy-duty cast iron grates",
+    "description": "High-performance commercial gas range featuring 6 powerful burners with individual controls, cast iron grates, and stainless steel construction. Perfect for busy restaurant kitchens and catering operations. Built to withstand heavy daily use with easy-to-clean surfaces.",
+    "features": [
+      "6 high-BTU gas burners",
+      "Cast iron grates for durability",
+      "Stainless steel construction",
+      "Individual burner controls",
+      "Easy-to-clean design",
+      "Commercial grade quality"
+    ],
+    "specifications": {
+      "dimensions": "36\" W x 36\" D x 34\" H",
+      "material": "Stainless Steel",
+      "power": "Natural Gas / LPG",
+      "warranty": "1 Year"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": true,
+    "images": [
+      "/images/products/gas-range-6burner-1.jpg",
+      "/images/products/gas-range-6burner-2.jpg"
+    ],
+    "brand": "Professional Series",
+    "metaTitle": "Commercial 6 Burner Gas Range | Restaurant Equipment UAE",
+    "metaDescription": "Heavy-duty 6-burner commercial gas range for restaurants. Stainless steel construction with cast iron grates."
+  },
+  {
+    "id": 2,
+    "name": "Industrial Deep Fryer",
+    "slug": "industrial-deep-fryer",
+    "categoryId": 1,
+    "sku": "IDF-002",
+    "shortDescription": "Large capacity commercial deep fryer with temperature control",
+    "description": "Industrial-grade deep fryer designed for high-volume frying operations. Features precise temperature control, large oil capacity, and efficient heating system for consistent results.",
+    "features": [
+      "Large oil capacity",
+      "Digital temperature control",
+      "Energy efficient heating",
+      "Cool-touch handles",
+      "Easy oil drainage system",
+      "Removable basket"
+    ],
+    "specifications": {
+      "dimensions": "20\" W x 24\" D x 16\" H",
+      "material": "Stainless Steel",
+      "capacity": "20L",
+      "power": "Electric 220V"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": true,
+    "images": [
+      "/images/products/deep-fryer-1.jpg"
+    ],
+    "brand": "Industrial Pro",
+    "metaTitle": "Industrial Deep Fryer | Commercial Kitchen Equipment",
+    "metaDescription": "Large capacity commercial deep fryer with digital controls for restaurants and cafeterias"
+  },
+  {
+    "id": 3,
+    "name": "Commercial Pizza Oven",
+    "slug": "commercial-pizza-oven",
+    "categoryId": 1,
+    "sku": "CPO-003",
+    "shortDescription": "Double deck electric pizza oven for pizzerias",
+    "description": "Professional double-deck pizza oven with independent temperature controls for each chamber. Perfect for pizzerias and restaurants serving authentic stone-baked pizzas.",
+    "features": [
+      "Double deck design",
+      "Independent temperature controls",
+      "Stone baking surface",
+      "Interior lighting",
+      "Rapid heat-up time",
+      "Energy efficient insulation"
+    ],
+    "specifications": {
+      "dimensions": "43\" W x 35\" D x 30\" H",
+      "material": "Stainless Steel",
+      "temperature": "Up to 500°C",
+      "power": "Electric 380V"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": true,
+    "images": [
+      "/images/products/pizza-oven-1.jpg"
+    ],
+    "brand": "Pizza Master",
+    "metaTitle": "Double Deck Pizza Oven | Commercial Bakery Equipment",
+    "metaDescription": "Professional double deck pizza oven with stone surface for authentic pizzas"
+  },
+  {
+    "id": 4,
+    "name": "Commercial Food Processor",
+    "slug": "commercial-food-processor",
+    "categoryId": 2,
+    "sku": "CFP-004",
+    "shortDescription": "Heavy-duty food processor for chopping, slicing, and shredding",
+    "description": "Versatile commercial food processor with multiple blade attachments for various food preparation tasks. Powerful motor handles large volumes with ease.",
+    "features": [
+      "Powerful motor",
+      "Multiple blade attachments",
+      "Large capacity bowl",
+      "Variable speed control",
+      "Safety interlock system",
+      "Easy to clean"
+    ],
+    "specifications": {
+      "dimensions": "12\" W x 14\" D x 18\" H",
+      "material": "Stainless Steel & Plastic",
+      "capacity": "4L",
+      "power": "Electric 220V, 750W"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/food-processor-1.jpg"
+    ],
+    "brand": "Chef Pro",
+    "metaTitle": "Commercial Food Processor | Kitchen Prep Equipment",
+    "metaDescription": "Heavy-duty food processor for commercial kitchens with multiple attachments"
+  },
+  {
+    "id": 5,
+    "name": "Meat Slicer Professional",
+    "slug": "meat-slicer-professional",
+    "categoryId": 2,
+    "sku": "MSP-005",
+    "shortDescription": "Professional meat slicer with adjustable thickness control",
+    "description": "Commercial-grade meat slicer with precision thickness adjustment. Perfect for delis, restaurants, and catering operations.",
+    "features": [
+      "12-inch stainless steel blade",
+      "Adjustable thickness control",
+      "Non-slip feet",
+      "Food pusher and guard",
+      "Easy blade removal for cleaning",
+      "Commercial motor"
+    ],
+    "specifications": {
+      "dimensions": "24\" W x 20\" D x 18\" H",
+      "material": "Stainless Steel",
+      "bladeSize": "12 inches",
+      "power": "Electric 220V"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/meat-slicer-1.jpg"
+    ],
+    "brand": "SliceMaster",
+    "metaTitle": "Professional Meat Slicer | Commercial Deli Equipment",
+    "metaDescription": "Precision meat slicer for commercial use with adjustable thickness"
+  },
+  {
+    "id": 6,
+    "name": "Commercial Citrus Juicer",
+    "slug": "commercial-citrus-juicer",
+    "categoryId": 3,
+    "sku": "CCJ-006",
+    "shortDescription": "Automatic citrus juicer for oranges, lemons, and grapefruits",
+    "description": "High-efficiency commercial citrus juicer with automatic operation. Ideal for juice bars, cafes, and restaurants.",
+    "features": [
+      "Automatic operation",
+      "Professional strainer",
+      "Stainless steel cone",
+      "Large pulp container",
+      "Easy to clean",
+      "Quiet operation"
+    ],
+    "specifications": {
+      "dimensions": "16\" W x 18\" D x 20\" H",
+      "material": "Stainless Steel & ABS",
+      "capacity": "2L juice container",
+      "power": "Electric 220V, 80W"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": true,
+    "images": [
+      "/images/products/citrus-juicer-1.jpg"
+    ],
+    "brand": "FreshJuice Pro",
+    "metaTitle": "Commercial Citrus Juicer | Automatic Orange Juicer",
+    "metaDescription": "Professional automatic citrus juicer for cafes and juice bars"
+  },
+  {
+    "id": 7,
+    "name": "Popcorn Machine",
+    "slug": "popcorn-machine",
+    "categoryId": 3,
+    "sku": "PM-007",
+    "shortDescription": "Commercial popcorn maker with warming deck",
+    "description": "Theater-style popcorn machine perfect for cinemas, cafes, and snack bars. Features warming deck to keep popcorn fresh.",
+    "features": [
+      "Theater-style design",
+      "Built-in warming deck",
+      "Tempered glass panels",
+      "Easy-clean kettle",
+      "Bright interior lighting",
+      "Old-fashioned cart design"
+    ],
+    "specifications": {
+      "dimensions": "20\" W x 17\" D x 28\" H",
+      "material": "Stainless Steel & Glass",
+      "kettleSize": "8 oz",
+      "power": "Electric 220V"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/popcorn-machine-1.jpg"
+    ],
+    "brand": "SnackPro",
+    "metaTitle": "Commercial Popcorn Machine | Theater Style Popper",
+    "metaDescription": "Professional popcorn maker with warming deck for cinemas and cafes"
+  },
+  {
+    "id": 8,
+    "name": "Stainless Steel Work Table",
+    "slug": "stainless-steel-work-table",
+    "categoryId": 4,
+    "sku": "SSWT-008",
+    "shortDescription": "Commercial work table with undershelf",
+    "description": "Heavy-duty stainless steel work table with reinforced frame and adjustable undershelf. Perfect for food preparation areas.",
+    "features": [
+      "Food-grade stainless steel",
+      "Reinforced frame",
+      "Adjustable undershelf",
+      "Adjustable feet",
+      "Easy to clean",
+      "Heavy-duty construction"
+    ],
+    "specifications": {
+      "dimensions": "60\" W x 30\" D x 34\" H",
+      "material": "Stainless Steel 304",
+      "loadCapacity": "300 kg",
+      "tableTop": "1.2mm thickness"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/work-table-1.jpg"
+    ],
+    "brand": "SteelPro",
+    "metaTitle": "Stainless Steel Work Table | Commercial Kitchen Prep",
+    "metaDescription": "Heavy-duty stainless steel work table with undershelf for commercial kitchens"
+  },
+  {
+    "id": 9,
+    "name": "Wall-Mounted Shelf Unit",
+    "slug": "wall-mounted-shelf-unit",
+    "categoryId": 4,
+    "sku": "WMSU-009",
+    "shortDescription": "Stainless steel wall-mounted shelving system",
+    "description": "Space-saving wall-mounted shelf unit made from food-grade stainless steel. Ideal for storage in commercial kitchens.",
+    "features": [
+      "Wall-mounted design",
+      "Multiple shelf levels",
+      "Easy installation",
+      "Corrosion resistant",
+      "Heavy-load capacity",
+      "NSF certified"
+    ],
+    "specifications": {
+      "dimensions": "48\" W x 16\" D x 72\" H",
+      "material": "Stainless Steel 304",
+      "shelves": "4 levels",
+      "loadPerShelf": "50 kg"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/wall-shelf-1.jpg"
+    ],
+    "brand": "SteelPro",
+    "metaTitle": "Wall-Mounted Stainless Steel Shelves | Kitchen Storage",
+    "metaDescription": "Durable wall-mounted shelving system for commercial kitchen storage"
+  },
+  {
+    "id": 10,
+    "name": "Universal Oven Thermostat",
+    "slug": "universal-oven-thermostat",
+    "categoryId": 6,
+    "sku": "UOT-010",
+    "shortDescription": "Replacement thermostat for commercial ovens",
+    "description": "High-quality replacement thermostat compatible with most commercial oven brands. Accurate temperature control from 50°C to 300°C.",
+    "features": [
+      "Universal compatibility",
+      "Temperature range: 50-300°C",
+      "Easy installation",
+      "Precision control",
+      "Long lifespan",
+      "CE certified"
+    ],
+    "specifications": {
+      "type": "Capillary thermostat",
+      "range": "50-300°C",
+      "probe": "900mm",
+      "connection": "Standard terminals"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/thermostat-1.jpg"
+    ],
+    "brand": "Universal Parts",
+    "metaTitle": "Universal Oven Thermostat | Replacement Parts UAE",
+    "metaDescription": "High-quality replacement thermostat for commercial ovens and cooking equipment"
+  },
+  {
+    "id": 11,
+    "name": "Commercial Gas Burner Head",
+    "slug": "commercial-gas-burner-head",
+    "categoryId": 7,
+    "sku": "CGBH-011",
+    "shortDescription": "Heavy-duty brass gas burner replacement",
+    "description": "Durable brass gas burner head for commercial stoves and ranges. High heat output with efficient gas distribution.",
+    "features": [
+      "Solid brass construction",
+      "High BTU output",
+      "Even flame distribution",
+      "Easy to install",
+      "Corrosion resistant",
+      "Compatible with most brands"
+    ],
+    "specifications": {
+      "material": "Brass",
+      "size": "Standard commercial",
+      "connection": "M10 thread",
+      "gasType": "Natural Gas / LPG"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/gas-burner-1.jpg"
+    ],
+    "brand": "BurnerPro",
+    "metaTitle": "Commercial Gas Burner Head | Replacement Parts",
+    "metaDescription": "Heavy-duty brass gas burner heads for commercial cooking equipment"
+  },
+  {
+    "id": 12,
+    "name": "Oven Heating Element 2500W",
+    "slug": "oven-heating-element-2500w",
+    "categoryId": 15,
+    "sku": "OHE-012",
+    "shortDescription": "2500W replacement heating element for commercial ovens",
+    "description": "High-quality 2500W heating element suitable for various commercial oven models. Fast heating with uniform heat distribution.",
+    "features": [
+      "2500W power output",
+      "Stainless steel construction",
+      "Fast heat-up time",
+      "Long service life",
+      "Easy replacement",
+      "Safety tested"
+    ],
+    "specifications": {
+      "power": "2500W",
+      "voltage": "220V",
+      "length": "350mm",
+      "material": "Stainless Steel"
+    },
+    "price": 0,
+    "inStock": true,
+    "featured": false,
+    "images": [
+      "/images/products/heating-element-1.jpg"
+    ],
+    "brand": "HeatPro",
+    "metaTitle": "2500W Oven Heating Element | Commercial Parts",
+    "metaDescription": "High-quality replacement heating element for commercial ovens"
+  }
+]
